@@ -70,7 +70,7 @@ ___
 
 # Link to the kaggle kernel
   
-  [a link](https://www.kaggle.com/andriihura/imagesegmentation)
+  (https://www.kaggle.com/andriihura/imagesegmentation)
 
   Here is a link to a kaggle kernel, where I tested different things, from adjusting hyperparameters of model, to changing layers' structure.
   Unfortunatel, as I was using this kernel as a draft, my code there is really super messy, and looks like a trash. So better don't check it :)
