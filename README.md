@@ -4,6 +4,10 @@ Solution for Data Science Bowl 2018 (https://www.kaggle.com/c/data-science-bowl-
 The main objective was to build a model based on Unet Architeture for image semantic segmentation.
 
 Model was build using Keras, and Tensorflow backend.
+
+If you want to train model again, then you should remove model_weights.h5 file and run Train.py again.
+
+If you want to predict masks with new trained model, you should remove everything from predicted_test_data_gray and  predicted_test_data_viridis folders, and run Predict.py
 ___
 
 # Requirements
